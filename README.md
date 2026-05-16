@@ -65,6 +65,7 @@ UCI Online Retail II dataset — available free on Kaggle
 500K+ transactions from a UK-based online retailer (2009–2011)
 
 ## Screenshots
-![Page 1 - Executive Summary](screenshots/page1_summary.png)
-![Page 2 - Product Analysis](screenshots/page2_products.png)
-![Page 3 - Customer Segments](screenshots/page3_segments.png)
+## Screenshots
+![Page 1 - Executive Summary](Summary.png)
+![Page 2 - Product Analysis](Product%20Analysis.png)
+![Page 3 - Customer Segments](Customer%20Segments.png)
